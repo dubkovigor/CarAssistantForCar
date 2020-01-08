@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CarAssistantForCar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="auth_or_registration">Авторизация/Регистрация</string>
+    <string name="registration">Регистрация</string>
+    <string name="auth">Авторизация</string>
+    <string name="plateNumber">Автомобильный номер</string>
+    <string name="Enter">Войти</string>
+</resources>
